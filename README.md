@@ -1,4 +1,4 @@
-Welcome to Elderfield — Fate Roll Command
+Welcome to Elderfield — Fate Roll Command (Version 1)
 
 This repository contains a custom StreamElements Twitch chat command with 30 possible fate outcomes.
 
